@@ -11,7 +11,7 @@ I'm a brazillian computer science student at UFABC.
 <br/>💡&nbsp;I'm interested about **Computer science, games, sports and music**
 <br/>😄&nbsp;Pronouns **He**
 <br/>⚡&nbsp;Fun fact **I don't know how to swim**
-<br/>j&nbsp;aovvfeitosa@gmail.com [joaovvfeitosa@gmail.com](mailto:joaovvfeitosa@gmail.com)
+<br/>j&nbsp; [joaovvfeitosa@gmail.com](mailto:joaovvfeitosa@gmail.com)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
